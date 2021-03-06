@@ -7,46 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Skaner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Skaner.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/META-INF/Skaner.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/Popouts/PopoutOptions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/Popouts/Popouts$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/Popouts/Popouts.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/output/2021 2 22 18.45.04.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/output/2021.46.22 18.46.16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/sample/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/sample/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/scanners/Counter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/scanners/FileScanner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/scanners/Replacement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/scanners/SearchOptions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/scanners/ValuesComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Skaner/scanners/Writer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/2021.03.06 13.34.24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/FX_Cloud.png.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/burneg.png.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/popouts/PopoutOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/popouts/Popouts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/sample.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanners/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanners/FileScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanners/Replacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanners/SearchOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanners/ValuesComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanners/Writer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Skaner/Popouts/PopoutOptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Skaner/Popouts/PopoutOptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Skaner/Popouts/Popouts$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Skaner/Popouts/Popouts$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Skaner/Popouts/Popouts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Skaner/Popouts/Popouts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Skaner/sample/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Skaner/sample/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Skaner/scanners/FileScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Skaner/scanners/FileScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scanners/ValuesComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scanners/ValuesComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scanners/Writer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scanners/Writer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -262,22 +230,22 @@
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state x="771" y="294" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1614189061693" />
-    <state width="1815" height="330" key="GridCell.Tab.0.bottom" timestamp="1615034211230">
+    <state width="1815" height="330" key="GridCell.Tab.0.bottom" timestamp="1615036268236">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="330" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1615034211230" />
-    <state width="1815" height="330" key="GridCell.Tab.0.center" timestamp="1615034211230">
+    <state width="1815" height="330" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1615036268236" />
+    <state width="1815" height="330" key="GridCell.Tab.0.center" timestamp="1615036268236">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="330" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1615034211230" />
-    <state width="1815" height="330" key="GridCell.Tab.0.left" timestamp="1615034211230">
+    <state width="1815" height="330" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1615036268236" />
+    <state width="1815" height="330" key="GridCell.Tab.0.left" timestamp="1615036268236">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="330" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1615034211230" />
-    <state width="1815" height="330" key="GridCell.Tab.0.right" timestamp="1615034211230">
+    <state width="1815" height="330" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1615036268236" />
+    <state width="1815" height="330" key="GridCell.Tab.0.right" timestamp="1615036268236">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
-    <state width="1815" height="330" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1615034211230" />
+    <state width="1815" height="330" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1615036268236" />
     <state x="471" y="114" key="SettingsEditor" timestamp="1614287540636">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>

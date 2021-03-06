@@ -16,7 +16,6 @@ public class Writer {
 
     public static boolean writeTextures(Map<String,Integer> map ){
 
-        System.out.println("in write textures");
          String filename = new SimpleDateFormat("yyyy.MM.dd HH.mm.ss.'txt'").format( Calendar.getInstance().getTime());
 
          File file = new File("output\\" + filename);

@@ -7,7 +7,7 @@ public class ValuesComparator {
 
     public static <K, V extends Comparable<? super V>> Map<K, V> sortByValue(Map<K, V> map) {
 
-        System.out.println("Comparing values");
+
         List<Map.Entry<K, V>> list = new ArrayList<>(map.entrySet());
         list.sort(Map.Entry.comparingByValue());
 
