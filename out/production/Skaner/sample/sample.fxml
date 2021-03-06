@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="anchorId" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <VBox alignment="TOP_CENTER" prefHeight="300.0" prefWidth="600.0" AnchorPane.bottomAnchor="350.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <TextField fx:id="folderLocation" alignment="TOP_LEFT" maxWidth="430.0" promptText="Select folder location">
+               <VBox.margin>
+                  <Insets left="20.0" right="150.0" top="50.0" />
+               </VBox.margin>
+            </TextField>
+            <Button fx:id="searchTexturesButton" alignment="TOP_RIGHT" mnemonicParsing="false" text="Search textures">
+               <VBox.margin>
+                  <Insets left="-350.0" top="50.0" />
+               </VBox.margin>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Button>
+            <Button fx:id="openTxtButton" alignment="CENTER_RIGHT" layoutX="110.0" layoutY="135.0" mnemonicParsing="false" text="Open .txt folder">
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+               <VBox.margin>
+                  <Insets left="-50.0" top="-25.0" />
+               </VBox.margin>
+            </Button>
+            <Button fx:id="selectFolderButton" alignment="TOP_RIGHT" contentDisplay="RIGHT" mnemonicParsing="false" text="Select Folder">
+               <VBox.margin>
+                  <Insets left="450.0" top="-100.0" />
+               </VBox.margin></Button>
+            <Label fx:id="dropTextures" alignment="CENTER" contentDisplay="CENTER" onDragDropped="#handleDragDropped" onDragOver="#handleDragOver" prefHeight="60.0" prefWidth="120.0" text="Drop texture here">
+               <VBox.margin>
+                  <Insets left="320.0" top="30.0" />
+               </VBox.margin>
+            </Label>
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <Label fx:id="oldNameLabel" alignment="BOTTOM_LEFT" prefHeight="20.0" prefWidth="60.0" text="Old name">
+                     <HBox.margin>
+                        <Insets left="70.0" top="20.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label alignment="BOTTOM_RIGHT" text="New name">
+                     <HBox.margin>
+                        <Insets left="250.0" top="20.0" />
+                     </HBox.margin>
+                  </Label>
+                  <TextField fx:id="oldNameText" promptText="Old name">
+                     <HBox.margin>
+                        <Insets left="-270.0" top="20.0" />
+                     </HBox.margin>
+                  </TextField>
+                  <TextField fx:id="newNameText" alignment="BOTTOM_LEFT" promptText="New Name">
+                     <HBox.margin>
+                        <Insets left="150.0" top="20.0" />
+                     </HBox.margin>
+                  </TextField>
+                  <Button fx:id="changeNameButton" alignment="BOTTOM_RIGHT" mnemonicParsing="false" text="Change name">
+                     <HBox.margin>
+                        <Insets left="40.0" top="20.0" />
+                     </HBox.margin>
+                  </Button>
+               </children>
+            </HBox>
+         </children></VBox>
+      <TextArea fx:id="textArea" prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="250.0" />
+   </children>
+</AnchorPane>
